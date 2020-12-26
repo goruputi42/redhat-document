@@ -1,5 +1,5 @@
 # redhat-document
 redhat administrator documentation 
-1. Mamaging Users and Groups:
+1. Managing Users and Groups:
 more coming soon.....
 <this doc develops through my revision and learning...............>
