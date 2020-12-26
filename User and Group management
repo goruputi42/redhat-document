@@ -1,0 +1,5 @@
+USERS and GROUPS:
+Ex:
+-> mkdir web (created dir with permissions : 1755(drwxr-wr-w))
+-> ls -la (list of all files and folders)
+
